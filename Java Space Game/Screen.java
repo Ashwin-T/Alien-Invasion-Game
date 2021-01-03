@@ -148,7 +148,7 @@ public class Screen extends JPanel implements KeyListener {
 			Font font1 = new Font("Times New Roman", Font.PLAIN, 50);
 			g.setFont(font1);
 			
-			g.drawString("Welcome to Alien Invasion", 75, 200);
+			g.drawString("Welcome to Alien Invasion", 150, 200);
 			Color white = new Color(255, 255,255);
 			g.setColor(white);
 			Font font2 = new Font("Times New Roman", Font.PLAIN, 25);
