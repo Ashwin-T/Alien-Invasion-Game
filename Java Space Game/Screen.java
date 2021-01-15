@@ -139,7 +139,7 @@ public class Screen extends JPanel implements KeyListener {
 			g.setColor(Color.black);
 			g.fillRect(0, 0, 800, 600);
 			
-			Image i=t.getImage("space_stars_sky_night_116649_800x600.JPG");  
+			Image i=t.getImage("space_stars_sky_night_116649_800x600.jpg");  
 			g.drawImage(i, 0,0,this);  
 			
 			Color green = new Color(0, 255,0);
@@ -202,7 +202,7 @@ public class Screen extends JPanel implements KeyListener {
 			
 			g.setColor(Color.black);
 			g.fillRect(0, 0, 800, 600);
-			Image o =t.getImage("LoadingScreenbackground.JPG");
+			Image o =t.getImage("LoadingScreenbackground.jpg");
 			g.drawImage(o, 0,0,this);  
 			
 			Color white = new Color(255, 255,255);
@@ -254,7 +254,7 @@ public class Screen extends JPanel implements KeyListener {
 			
 			g.setColor(Color.black);
 			g.fillRect(0, 0, 800, 600);
-			Image o =t.getImage("LoadingScreenbackground.JPG");
+			Image o =t.getImage("LoadingScreenbackground.jpg");
 			g.drawImage(o, 0,0,this);  
 			
 			Color white = new Color(255, 255,255);
@@ -318,7 +318,7 @@ public class Screen extends JPanel implements KeyListener {
 			
 			g.setColor(Color.black);
 			g.fillRect(0, 0, 800, 600);
-			Image o =t.getImage("LoadingScreenbackground.JPG");
+			Image o =t.getImage("LoadingScreenbackground.jpg");
 			g.drawImage(o, 0,0,this);  
 			
 			Color white = new Color(255, 255,255);
@@ -394,7 +394,7 @@ public class Screen extends JPanel implements KeyListener {
 			
 			g.setColor(Color.black);
 			g.fillRect(0, 0, 800, 600);
-			Image o =t.getImage("LoadingScreenbackground.JPG");
+			Image o =t.getImage("LoadingScreenbackground.jpg");
 			g.drawImage(o, 0,0,this);  
 			
 			Color white = new Color(255, 255,255);
@@ -418,7 +418,7 @@ public class Screen extends JPanel implements KeyListener {
 			
 			g.setColor(Color.black);
 			g.fillRect(0, 0, 800, 600);
-			Image o =t.getImage("Winscreen.JPG");
+			Image o =t.getImage("Winscreen.jpg");
 			g.drawImage(o, 0,0,this);  
 			
 			Color white = new Color(255, 255,255);
@@ -442,7 +442,7 @@ public class Screen extends JPanel implements KeyListener {
 			
 			g.setColor(Color.black);
 			g.fillRect(0, 0, 800, 600);
-			Image o =t.getImage("LoadingScreenbackground.JPG");
+			Image o =t.getImage("LoadingScreenbackground.jpg");
 			g.drawImage(o, 0,0,this);  
 			
 			Color white = new Color(255, 255,255);
@@ -501,7 +501,7 @@ public class Screen extends JPanel implements KeyListener {
 		else if (levels == 50){
 			g.setColor(Color.black);
 			g.fillRect(0, 0, 800, 600);
-			Image o =t.getImage("LoadingScreenbackground.JPG");
+			Image o =t.getImage("LoadingScreenbackground.jpg");
 			g.drawImage(o, 0,0,this);  
 			
 			Color white = new Color(255, 255,255);
