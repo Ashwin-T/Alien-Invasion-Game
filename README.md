@@ -1,6 +1,6 @@
 # Alien-Invasion-Game
 
-A fun Java Graphics Project that I worked on as a Final Project.  
+A fun Java Graphics Project that I worked on as a Final Project for my AP CS class.  
 
 For a quick preview visit: https://youtu.be/rvdm--rYRh4
 
